@@ -5,7 +5,7 @@ Hello! I am Tejaswini.
 This is my blog created using GitHub Pages.
 
 ## About Me
-I am interested in space engineering and technology.
+Passionate about embedded systems, PCB design, and developing innovative hardware-based technology projects.
 
 ## My Project
 Gesture-Controlled Multi-Instrument for Motor-Impaired Users.
