@@ -9,4 +9,5 @@ Passionate about embedded systems, PCB design, analog circuit design, and develo
 
 ## My Projects
 Gesture-Controlled Multi-Instrument for Motor-Impaired Users.
+
 Facial Recognition and Obstacle Detection Smart Glasses for Visually Challenged People
