@@ -4,8 +4,6 @@ Hello! I am Tejaswini.R
 
 This is my blog created using GitHub Pages.
 
-## About Me
-Passionate about embedded systems, PCB design, analog circuit design, and developing innovative hardware solutions in electronics and communication technologies.
 
 ## My Projects
 
@@ -79,8 +77,4 @@ This project demonstrates how assistive technology can make music accessible to 
 
 ---
 
-## 📎 My Projects
-
-- Gesture-Controlled Multi-Instrument for Motor-Impaired Users  
-- Facial Recognition Smart Glass for Visually Challenged  
 
