@@ -64,12 +64,10 @@ These technologies work together to provide accurate gesture detection and effic
 ---
 
 ## 📊 Block Diagram
-
-![Block Diagram](block_diagram.png)
+![Block Diagram](https://raw.githubusercontent.com/TejaswiniR19/Gesture-Controlled-Multi-Instrument-For-Motor-Impaired-User-/main/block_daigram.png)
 
 ## 🔄 Flowchart
-
-![Flowchart](flowchart.png)
+![Flowchart](https://raw.githubusercontent.com/TejaswiniR19/Gesture-Controlled-Multi-Instrument-For-Motor-Impaired-User-/main/flowchart.png)
 
 ## 🌍 Applications
 
