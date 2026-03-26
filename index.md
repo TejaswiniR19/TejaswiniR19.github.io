@@ -63,6 +63,14 @@ These technologies work together to provide accurate gesture detection and effic
 
 ---
 
+## 📊 Block Diagram
+
+![Block Diagram](block_diagram.png)
+
+## 🔄 Flowchart
+
+![Flowchart](flowchart.png)
+
 ## 🌍 Applications
 
 This system has wide applications in various domains. It can be used in music therapy to help individuals improve emotional and psychological well-being. In educational institutions, it supports inclusive learning by enabling students with disabilities to participate in music activities.
