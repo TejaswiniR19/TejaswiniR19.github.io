@@ -1,7 +1,18 @@
 # Welcome to My Blog
 
 Hello! I am Tejaswini.R  
+## About Me
 
+I am a B.E. undergraduate student in Electronics and Communication Engineering at K S Institute of Technology, Bengaluru, Karnataka. I have a strong interest in embedded systems, assistive technologies, and applying electronics and programming to solve real-world problems.
+
+I am passionate about learning new technologies and actively seek opportunities to enhance my technical skills through hands-on projects and internships. I enjoy working on solutions that are practical, meaningful, and socially impactful.
+
+**Hobbies & Interests:**
+- Dancing  
+- Playing throw ball  
+- Listening to music  
+- Drawing
+- 
 This is my blog created using GitHub Pages. This blog presents my project on assistive technology, which focuses on enabling motor-impaired individuals to interact with music in an innovative and accessible way using modern technologies.
 
 ---
