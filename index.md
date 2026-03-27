@@ -12,12 +12,12 @@ I am passionate about learning new technologies and actively seek opportunities 
 - Playing throw ball  
 - Listening to music  
 - Drawing
-- 
+
 This is my blog created using GitHub Pages. This blog presents my project on assistive technology, which focuses on enabling motor-impaired individuals to interact with music in an innovative and accessible way using modern technologies.
 
 ---
 
-## My Projects
+## My Project
 
 - Gesture-Controlled Multi-Instrument for Motor-Impaired Users
 
