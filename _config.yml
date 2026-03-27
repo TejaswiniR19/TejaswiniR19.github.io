@@ -1,3 +1,7 @@
-theme: jekyll-theme-cayman
-title: Tejaswini R's Tech Blog
-description: My projects, research, and technology learning
+title: Tejaswini R
+description: Portfolio | Projects | Assistive Technology
+theme: minimal-mistakes-jekyll
+remote_theme: mmistakes/minimal-mistakes
+
+plugins:
+  - jekyll-remote-theme
